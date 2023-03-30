@@ -1,4 +1,4 @@
-###  ⚡ Web3 | Designer & Developer  ⚡
+###  Designer & Developer  ⚡
 
 ![](code.gif)
 
